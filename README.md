@@ -1,5 +1,5 @@
 # TextEditorProject
-Simple Java Text Editor with Undo/Redo using Doubly Linked List. Console-based, memory-efficient, and beginner-friendly.
+Simple Java Text Editor with Undo/Redo using Doubly Linked List. Console-based, and beginner-friendly.
 
 # 📝 Text Editor with Undo/Redo Functionality
 
